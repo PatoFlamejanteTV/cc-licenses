@@ -6,7 +6,7 @@ Neste repositório, você encontrará formas simples de aplicar as licenças
 Creative Commons nos seus repositórios do GitHub em Markdown.
 
 > **ATENÇÃO :**
-> Você não deve itilizar as licenças Creative Commons para software ou código unicamente.
+> Você não deve utilizar as licenças Creative Commons para software ou código unicamente.
 > Nestes casos, prefira as licenças típicas de software ou código livre, como GPL, BSD, etc.
 > As licenças Creative Commons se aplicam unicamente à propriedade intelectual.
 
